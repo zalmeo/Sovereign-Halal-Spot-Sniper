@@ -8,7 +8,7 @@ app = FastAPI(title="Sovereign Absolute Mempool Liquidity Sniper 2026")
 
 # 🔒 الحصانة المالية المطلقة - ضع عنوان محفظتك العام المستخرج من خيار Solana (SOL) في تطبيق Trust Wallet هنا
 # ⚠️ امسح النص العربي واصق كود محفظتك الطويل الفريد بيدك بين علامتي التنصيص لصب المكافآت والأرباح داخله دغري
-USER_WALLET_ADDRESS = "ضع_هنا_عنوان_محفظتك_الطويل_الخاص_بشبكة_سولانا"
+USER_WALLET_ADDRESS = "9yHp9vyCwCpMU2ernmJozfNCU2gqWqYyhhD5nPUQz4W6"
 
 # مصفوفة الشرايين والبوابات البديلة المفتوحة فائقة السرعة المربوطة بالـ Mempool مباشرة في أمريكا
 LAUNCHPADS = ["Solana_Mempool_FrontRun", "TON_Mempool_Bridge", "Raydium_Speed_Node", "Jupiter_Atomic_Router", "PumpFun_Instant_Feeds"]
